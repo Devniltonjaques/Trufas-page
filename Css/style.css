@@ -8,6 +8,7 @@ body {
 
 .text-animation {
     font-weight: bold;
+    color: white;
 }
 .text-animation:hover {
     color: hotpink;
@@ -24,6 +25,14 @@ h1 {
     color: white;
     font-family: 'Anton', sans-serif;
 }
+h6 {
+    color: white;
+    margin-bottom: 560px;
+    font-family:Arial, Helvetica, sans-serif;
+
+
+}
+
 .txt-area-01 {
     height: 30vw;
     display: flex;
@@ -34,4 +43,8 @@ h1 {
 
 h1 {
     font-size: calc(1em + 5vw)
+}
+
+h6{
+    font-size: calc(1 + 0.1vw)
 }
