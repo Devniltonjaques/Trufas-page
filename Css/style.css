@@ -1,0 +1,37 @@
+
+
+body {
+   background-image: url(/Img/bg3.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.text-animation {
+    font-weight: bold;
+}
+.text-animation:hover {
+    color: hotpink;
+    
+}
+
+
+.t-color {
+    color: hotpink;
+    font-weight: bold;
+}
+
+h1 {
+    color: white;
+    font-family: 'Anton', sans-serif;
+}
+.txt-area-01 {
+    height: 30vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align-last: initial;
+}
+
+h1 {
+    font-size: calc(1em + 5vw)
+}
